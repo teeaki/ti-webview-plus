@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: My module
+author: firsttype
+license: Specify your license
+copyright: firsttype
+
+
+# these should not be edited
+name: ti-webview-plus
+moduleid: jp.king3.webview.plus
+guid: 42f747a2-2850-496c-b00c-5f587dc59967
+platform: iphone
+minsdk: 2.1.1.GA
